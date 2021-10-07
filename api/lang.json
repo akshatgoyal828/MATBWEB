@@ -1,0 +1,357 @@
+{
+  "email is already registered.": {
+    "en": "Email is already registered."
+  },
+  "mobile_number is already registered.": {
+    "en": "Mobile number is already registered."
+  },
+  "EMAIL_NUMBER_ALREADY_USED": {
+    "en": "Email address is already used."
+  },
+  "MOBILE_NUMBER_ALREADY_USED": {
+    "en": "Mobile number is already used."
+  },
+  "REGISTRATION_DONE": {
+    "en": "Registration done successfully."
+  },
+  "INVALID_LOGIN": {
+    "en": "Invalid email or password."
+  },
+  "ACCOUNT_DEACTIVE": {
+    "en": "Your account has been disabled by the administrator."
+  },
+  "ACCOUNT_LOGIN": {
+    "en": "Login successfully."
+  },
+  "FORGOT_PASSWORD_EMAIL": {
+    "en": "We're sorry. We weren't able to identify you by provided email address."
+  },
+  "FORGOT_PASSWORD_OTP": {
+    "en": "We've sent OTP to the registered email address."
+  },
+  "SOMETHING_WENT_WRONG": {
+    "en": "Something went wrong, Please try again."
+  },
+  "DATA_NOT_FOUND": {
+    "en": "Sorry data not found."
+  },
+  "DATA_RECEIVED": {
+    "en": "Data received successfully."
+  },
+  "RECODE_CREATED": {
+    "en": "Record created successfully."
+  },
+  "SETTING_UPDATE": {
+    "en": "Setting updated successfully."
+  },
+  "EMAIL_HEADER": {
+    "en": "Please enter email header."
+  },
+  "EMAIL_FOOTER": {
+    "en": "Please enter email footer."
+  },
+  "PASSWORD_UPDATE": {
+    "en": "Password updated successfully."
+  },
+  "CURRENT_PASSWORD_NOT_MATCH": {
+    "en": "Current password does not match. Please try again."
+  },
+  "PROFILE_UPDATE": {
+    "en": "Profile updated successfully."
+  },
+  "unauthorized": {
+    "en": "Token is expired please login again."
+  },
+  "TITLE_ALREADY_USED": {
+    "en": "Title is already used."
+  },
+  "is already used": {
+    "en": "Title is already used."
+  },
+  "FAQ_CREATED": {
+    "en": "Faq created successfully."
+  },
+  "FAQ_DELETE": {
+    "en": "Faq deleted successfully."
+  },
+  "FAQ_UPDATE": {
+    "en": "Faq updated successfully."
+  },
+  "CMS_CREATED": {
+    "en": "Page created successfully."
+  },
+  "CMS_DELETE": {
+    "en": "Page deleted successfully."
+  },
+  "CMS_UPDATE": {
+    "en": "Page updated successfully."
+  },
+  "ENTER_DESC": {
+    "en": "Please enter description."
+  },
+  "ENTER_KEYWORD": {
+    "en": "Please enter Keyword."
+  },
+  "EMAIL_CREATED": {
+    "en": "Email created successfully."
+  },
+  "EMAIL_DELETE": {
+    "en": "Email deleted successfully."
+  },
+  "EMAIL_UPDATE": {
+    "en": "Email updated successfully."
+  },
+  "USER_PASSWORD_UPDATE": {
+    "en": "Password updated successfully."
+  },
+  "ADMIN_PASSWORD_UPDATE": {
+    "en": "Password updated successfully."
+  },
+  "OTP_NOT_MATCH": {
+    "en": "OTP is incorrect."
+  },
+
+  "FAQ_DEACTIVE_STATE": {
+    "en": "Faq deactivated successfully."
+  },
+  "FAQ_ACTIVE_STATE": {
+    "en": "Faq activated successfully."
+  },
+  "Password should contain at least 1 Uppercase,1 Lowercase,1 Numeric and 1 Special Character.": {
+    "en": "Password should contain at least 1 Uppercase,1 Lowercase,1 Numeric and 1 Special Character."
+  },
+  "CONTACT_DELETE": {
+    "en": "Contact us request deleted successfully."
+  },
+  "NOTIFICATION_deleteOne": {
+    "en": "Notification deleteOned successfully."
+  },
+  "NOTIFICATION_DELETE": {
+    "en": "Notification deleted successfully."
+  },
+  "CUSTOMER_UPDATE": {
+    "en": "Customer updated successfully."
+  },
+  "CUSTOMER_DELETE": {
+    "en": "Customer deleted successfully."
+  },
+  "CUSTOMER_CREATE": {
+    "en": "Customer created successfully."
+  },
+  "CUSTOMER_DEACTIVE": {
+    "en": "Customer deactivated successfully."
+  },
+  "CUSTOMER_ACTIVE": {
+    "en": "Customer activated successfully."
+  },
+  "ADMIN_UPDATE": {
+    "en": "Sub admin updated successfully."
+  },
+  "ADMIN_DELETE": {
+    "en": "Sub admin deleted successfully."
+  },
+  "ADMIN_CREATE": {
+    "en": "Sub admin created successfully."
+  },
+  "ADMIN_DEACTIVE": {
+    "en": "Sub admin deactivated successfully."
+  },
+  "ADMIN_ACTIVE": {
+    "en": "Sub admin activated successfully."
+  },
+  "CATEGORY_CREATED":{
+    "en": "Category created successfully."
+  },
+  "CATEGORY_DELETE":{
+    "en": "Category deleted successfully."
+  },
+  "CATEGORY_UPDATE": {
+    "en": "Category updated successfully."
+  },
+  "CATEGORY_DEACTIVATE_STATE":{
+    "en": "Category deactivated successfully."
+  },
+  "CATEGORY_ACTIVE_STATE":{
+    "en": "Category activated successfully."
+  },
+  "VIDEO_CREATED":{
+    "en": "Video created successfully."
+  },
+  "VIDEO_DELETE":{
+    "en": "Video deleted successfully."
+  },
+  "VIDEO_UPDATE": {
+    "en": "Video updated successfully."
+  },
+  "VIDEO_DEACTIVATE_STATE":{
+    "en": "Video deactivated successfully."
+  },
+  "VIDEO_ACTIVE_STATE":{
+    "en": "Video activated successfully."
+  },
+  "VIDEO_ALREADY_USED":{
+    "en": "URL is already used."
+  },
+  "BLOG_CREATED":{
+    "en": "Blog created successfully."
+  },
+  "BLOG_DELETE":{
+    "en": "Blog deleted successfully."
+  },
+  "BLOG_UPDATE": {
+    "en": "Blog updated successfully."
+  },
+  "BLOG_DEACTIVATE_STATE":{
+    "en": "Blog deactivated successfully."
+  },
+  "BLOG_ACTIVE_STATE":{
+    "en": "Blog activated successfully."
+  },
+  "PRODUCT_CREATED":{
+    "en": "Product created successfully."
+  },
+  "PRODUCT_DELETE":{
+    "en": "Product deleted successfully."
+  },
+  "PRODUCT_UPDATE": {
+    "en": "Product updated successfully."
+  },
+  "PRODUCT_DEACTIVATE_STATE":{
+    "en": "Product deactivated successfully."
+  },
+  "PRODUCT_ACTIVE_STATE":{
+    "en": "Product activated successfully."
+  },
+  "METER_CREATED":{
+    "en": "Meter model created successfully."
+  },
+  "METER_DELETE":{
+    "en": "Meter model deleted successfully."
+  },
+  "METER_UPDATE": {
+    "en": "Meter model updated successfully."
+  },
+  "METER_DEACTIVATE_STATE":{
+    "en": "Meter model deactivated successfully."
+  },
+  "METER_ACTIVE_STATE":{
+    "en": "Meter model activated successfully."
+  },
+  "DEVICE_CREATED":{
+    "en": "Device model created successfully."
+  },
+  "DEVICE_DELETE":{
+    "en": "Device model deleted successfully."
+  },
+  "DEVICE_UPDATE": {
+    "en": "Device model updated successfully."
+  },
+  "DEVICE_DEACTIVATE_STATE":{
+    "en": "Device model deactivated successfully."
+  },
+  "DEVICE_ACTIVE_STATE":{
+    "en": "Device model activated successfully."
+  },
+  "MEDICATION_TYPE_CREATED":{
+      "en": "Medicine type created successfully."
+  },
+  "MEDICATION_TYPE_DELETE":{
+      "en": "Medicine type deleted successfully."
+  },
+  "MEDICATION_TYPE_UPDATE":{
+      "en": "Medicine type updated successfully."
+  },
+  "MEDICATION_UNIT_CREATED":{
+    "en": "Medicine unit created successfully."
+  },
+  "MEDICATION_UNIT_DELETE":{
+      "en": "Medicine unit deleted successfully."
+  },
+  "MEDICATION_UNIT_UPDATE":{
+      "en": "Medicine unit updated successfully."
+  },
+  "MEDICATION_CREATED":{
+    "en": "Medicine created successfully."
+  },
+  "MEDICATION_DELETE":{
+      "en": "Medicine deleted successfully."
+  },
+  "MEDICATION_UPDATE":{
+      "en": "Medicine updated successfully."
+  },
+  "PERSONALIZATION_CREATED":{
+    "en": "Personalization created successfully."
+  },
+  "PERSONALIZATION_DELETE":{
+      "en": "Personalization deleted successfully."
+  },
+  "PERSONALIZATION_UPDATE":{
+      "en": "Personalization updated successfully."
+  },
+  "PERSONALIZATION_DEACTIVATE_STATE":{
+    "en": "Personalization model deactivated successfully."
+  },
+  "PERSONALIZATION_ACTIVE_STATE":{
+    "en": "Personalization model activated successfully."
+  },
+  "BANNER_CREATED":{
+    "en": "Banner created successfully."
+  },
+  "BANNER_DELETE":{
+      "en": "Banner deleted successfully."
+  },
+  "BANNER_UPDATE":{
+      "en": "Banner updated successfully."
+  },
+  "BANNER_DEACTIVATE_STATE":{
+    "en": "Banner deactivated successfully."
+  },
+  "BANNER_ACTIVE_STATE":{
+    "en": "Banner activated successfully."
+  },
+  "PROMO-CODE_CREATED":{
+    "en": "Promo code created successfully."
+  },
+  "PROMO-CODE_DELETE":{
+      "en": "Promo code deleted successfully."
+  },
+  "PROMO-CODE_UPDATE":{
+      "en": "Promo code updated successfully."
+  },
+  "PROMO-CODE_DEACTIVATE_STATE":{
+    "en": "Promo code deactivated successfully."
+  },
+  "PROMO-CODE_ACTIVE_STATE":{
+    "en": "Promo code activated successfully."
+  },
+  "DIET_CREATED":{
+    "en": "Diet created successfully."
+  },
+  "DIET_DELETE":{
+      "en": "Diet deleted successfully."
+  },
+  "DIET_UPDATE":{
+      "en": "Diet updated successfully."
+  },
+  "DIET_DEACTIVATE_STATE":{
+    "en": "Diet deactivated successfully."
+  },
+  "DIET_ACTIVE_STATE":{
+    "en": "Diet activated successfully."
+  },
+  "EXERCISE_CREATED":{
+    "en": "Exercise created successfully."
+  },
+  "EXERCISE_DELETE":{
+      "en": "Exercise deleted successfully."
+  },
+  "EXERCISE_UPDATE":{
+      "en": "Exercise updated successfully."
+  },
+  "EXERCISE_DEACTIVATE_STATE":{
+    "en": "Exercise deactivated successfully."
+  },
+  "EXERCISE_ACTIVE_STATE":{
+    "en": "Exercise activated successfully."
+  }
+}
